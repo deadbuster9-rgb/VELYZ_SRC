@@ -132,3 +132,8 @@ LAVALINK_SECURE=false
 | `/coinflip` | Flip a coin |
 | `/dice` | Roll a dice |
 | `/rps` | Rock Paper Scissors |
+
+
+# By NotDarku_
+
+#  क!तील
